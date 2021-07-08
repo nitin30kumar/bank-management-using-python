@@ -16,7 +16,7 @@
 
 ## How to run it ? :computer:
 
-- [ ] It'll ask for the pin , input '1234' as given inn the code . You may change it in the code itself . 
+- [ ] It'll ask for the pin , input '1234' as given in the code . You may change it in the code itself . 
 - [ ] The program will tell you at every point what to do next.
 
 For any query , please do comment :left_speech_bubble: or else LIKE it :black_heart:
